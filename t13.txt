@@ -1,0 +1,859 @@
+
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="robots" content="index,follow,max-image-preview:large" />
+  <meta name="theme-color" content="#5b21b6" />
+
+  <title>GAJIAN123 🛡️ Void-Shield: Benteng Privasi Finansial Terenkripsi dengan Protokol Stealth-Data.</title>
+  <meta name="description" content="Keamanan Anda adalah identitas kami. Dengan teknologi Void-Shield, GAJIAN123 membungkus setiap riwayat transaksi dalam lapisan enkripsi yang tidak dapat dilacak oleh pihak ketiga. Menggunakan standar keamanan siber tingkat elit, aset Anda tetap anonim dan aman di dalam brankas digital yang mustahil ditembus. Nikmati kebebasan bertransaksi global dengan ketenangan pikiran total di platform dengan integritas tanpa kompromi." />
+  <meta name="keywords" content="GAJIAN123" />
+  <link rel="canonical" href="https://boardpreponline.com/contact/" />
+  <link rel="amphtml" href="https://boardpreponline-123.pages.dev/amp" />
+
+  <link rel="icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9GKsfpDv4LF4WdKCJQHWMetT5uxzkXbTJF_LdsjmMXXVS-bV_Af6KbbB13zmYwr-WU9d4KmWTC9OfDd0fyw06XyortQW_i4j2ZQZRlMWWQT_zlVgKSQE7QDxHjCAsrmzK3Gqi3_7zHc74zoVWSV5QtAANN0lLhqr8BocOFHqs26Ny_UsNuxgTCsVwVdqA/w200-h200/13.jpg" />
+  <link rel="apple-touch-icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9GKsfpDv4LF4WdKCJQHWMetT5uxzkXbTJF_LdsjmMXXVS-bV_Af6KbbB13zmYwr-WU9d4KmWTC9OfDd0fyw06XyortQW_i4j2ZQZRlMWWQT_zlVgKSQE7QDxHjCAsrmzK3Gqi3_7zHc74zoVWSV5QtAANN0lLhqr8BocOFHqs26Ny_UsNuxgTCsVwVdqA/w200-h200/13.jpg" />
+
+  <!-- Open Graph -->
+  <meta property="og:locale" content="id_ID" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="GAJIAN123 🛡️ Void-Shield: Benteng Privasi Finansial Terenkripsi dengan Protokol Stealth-Data." />
+  <meta property="og:description" content="Keamanan Anda adalah identitas kami. Dengan teknologi Void-Shield, GAJIAN123 membungkus setiap riwayat transaksi dalam lapisan enkripsi yang tidak dapat dilacak oleh pihak ketiga. Menggunakan standar keamanan siber tingkat elit, aset Anda tetap anonim dan aman di dalam brankas digital yang mustahil ditembus. Nikmati kebebasan bertransaksi global dengan ketenangan pikiran total di platform dengan integritas tanpa kompromi." />
+  <meta property="og:url" content="https://boardpreponline.com/contact/" />
+  <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuOM-McYBv3T03hyz0YQDJWoLzaMpZBzirn5cVlm0FK-3slcEVfgV0dadJzCK8S8aLE14K3mIuu2e-pp_Q8B3lOctdf8o4w6-hDsTKItEQw6mN_kgkpzloPSa-BnzYXgAikglbZ0gFOfN4IJh5Nj7DFoAEsyry6Lmvq668u0wz3tU9D8SAnrKxjmfK9tat/w640-h640/Desain%20tanpa%20judul%20(10).png" />
+  <meta property="og:image:alt" content="GAJIAN123 - Banner" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="GAJIAN123 🛡️ Void-Shield: Benteng Privasi Finansial Terenkripsi dengan Protokol Stealth-Data." />
+  <meta name="twitter:description" content="Keamanan Anda adalah identitas kami. Dengan teknologi Void-Shield, GAJIAN123 membungkus setiap riwayat transaksi dalam lapisan enkripsi yang tidak dapat dilacak oleh pihak ketiga. Menggunakan standar keamanan siber tingkat elit, aset Anda tetap anonim dan aman di dalam brankas digital yang mustahil ditembus. Nikmati kebebasan bertransaksi global dengan ketenangan pikiran total di platform dengan integritas tanpa kompromi." />
+  <meta name="twitter:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuOM-McYBv3T03hyz0YQDJWoLzaMpZBzirn5cVlm0FK-3slcEVfgV0dadJzCK8S8aLE14K3mIuu2e-pp_Q8B3lOctdf8o4w6-hDsTKItEQw6mN_kgkpzloPSa-BnzYXgAikglbZ0gFOfN4IJh5Nj7DFoAEsyry6Lmvq668u0wz3tU9D8SAnrKxjmfK9tat/w640-h640/Desain%20tanpa%20judul%20(10).png" />
+
+  <!-- Performance hints -->
+  <link rel="preconnect" href="https://assets-gajian123.pages.dev" crossorigin />
+  <link rel="preconnect" href="https://rollingstonesltd-123.pages.dev" crossorigin />
+
+  <style>
+    :root{
+      --bg:#0b0516;
+      --bg2:#120726;
+      --card:rgba(255,255,255,.06);
+      --card2:rgba(255,255,255,.08);
+      --stroke:rgba(255,255,255,.12);
+      --text:#f5f3ff;
+      --muted:rgba(245,243,255,.75);
+      --muted2:rgba(245,243,255,.55);
+      --brand:#7c3aed; /* purple */
+      --brand2:#a78bfa;
+      --good:#22c55e;
+      --warn:#f59e0b;
+      --shadow: 0 14px 50px rgba(0,0,0,.35);
+      --radius:18px;
+      --radius2:14px;
+      --max:1180px;
+    }
+    *{box-sizing:border-box}
+    html,body{height:100%}
+    body{
+      margin:0;
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+      color:var(--text);
+      background:
+        radial-gradient(1200px 600px at 20% -10%, rgba(124,58,237,.45), transparent 55%),
+        radial-gradient(900px 500px at 90% 10%, rgba(167,139,250,.25), transparent 55%),
+        radial-gradient(1100px 700px at 40% 120%, rgba(124,58,237,.25), transparent 60%),
+        linear-gradient(180deg, var(--bg), var(--bg2));
+      line-height:1.55;
+      overflow-x:hidden;
+    }
+    a{color:inherit;text-decoration:none}
+    img{max-width:100%;height:auto;display:block}
+    .container{max-width:var(--max);margin:0 auto;padding:0 18px}
+    .skip{
+      position:absolute;left:-999px;top:auto;width:1px;height:1px;overflow:hidden
+    }
+    .skip:focus{
+      left:18px;top:18px;width:auto;height:auto;padding:10px 12px;
+      background:#000;border:1px solid var(--stroke);border-radius:10px;z-index:9999
+    }
+
+    /* Top bar */
+    header{
+      position:sticky;top:0;z-index:50;
+      backdrop-filter: blur(14px);
+      background: linear-gradient(180deg, rgba(11,5,22,.85), rgba(11,5,22,.55));
+      border-bottom:1px solid rgba(255,255,255,.08);
+    }
+    .topbar{
+      display:flex;align-items:center;gap:14px;
+      padding:14px 0;
+    }
+    .brand{
+      display:flex;align-items:center;gap:10px;min-width:190px;
+    }
+    .brand img{
+      width:40px;height:40px;border-radius:12px;background:rgba(255,255,255,.06);
+      border:1px solid rgba(255,255,255,.10);
+      padding:6px;
+    }
+    .brand strong{font-size:14.5px;letter-spacing:.2px}
+    .brand span{display:block;font-size:12px;color:var(--muted2)}
+    .search{
+      flex:1;
+      display:flex;align-items:center;gap:10px;
+      background:rgba(255,255,255,.06);
+      border:1px solid rgba(255,255,255,.10);
+      border-radius:999px;
+      padding:10px 12px;
+      box-shadow: 0 10px 30px rgba(0,0,0,.18);
+    }
+    .search input{
+      flex:1;
+      background:transparent;border:0;outline:0;
+      color:var(--text);
+      font-size:14px;
+    }
+    .search input::placeholder{color:rgba(245,243,255,.55)}
+    .pill{
+      display:inline-flex;align-items:center;gap:8px;
+      padding:10px 12px;border-radius:999px;
+      border:1px solid rgba(255,255,255,.12);
+      background:rgba(255,255,255,.06);
+      color:var(--text);
+      font-size:13.5px;
+      cursor:pointer;
+      transition:.2s transform, .2s background;
+      user-select:none;
+      white-space:nowrap;
+    }
+    .pill:hover{transform:translateY(-1px);background:rgba(255,255,255,.08)}
+    .pill.primary{
+      background:linear-gradient(135deg, rgba(124,58,237,.95), rgba(167,139,250,.8));
+      border-color:rgba(255,255,255,.14);
+      box-shadow: 0 14px 40px rgba(124,58,237,.25);
+    }
+    .pill.primary:hover{background:linear-gradient(135deg, rgba(124,58,237,1), rgba(167,139,250,.9))}
+    .nav{
+      border-top:1px solid rgba(255,255,255,.06);
+      padding:10px 0 12px;
+    }
+    .nav ul{
+      display:flex;gap:10px;flex-wrap:wrap;margin:0;padding:0;list-style:none
+    }
+    .chip{
+      padding:8px 10px;border-radius:999px;
+      border:1px solid rgba(255,255,255,.10);
+      background:rgba(255,255,255,.04);
+      color:var(--muted);
+      font-size:12.5px;
+      transition:.2s background;
+    }
+    .chip:hover{background:rgba(255,255,255,.07);color:var(--text)}
+    .chip.active{
+      background:rgba(124,58,237,.25);
+      border-color:rgba(167,139,250,.35);
+      color:var(--text);
+    }
+
+    /* Hero */
+    .hero{
+      padding:26px 0 12px;
+    }
+    .hero-grid{
+      display:grid;
+      grid-template-columns: 1.25fr .75fr;
+      gap:16px;
+      align-items:stretch;
+    }
+    .hero-card{
+      position:relative;
+      border-radius:var(--radius);
+      border:1px solid rgba(255,255,255,.12);
+      overflow:hidden;
+      box-shadow: var(--shadow);
+      background:
+        radial-gradient(900px 420px at 30% 0%, rgba(124,58,237,.35), transparent 60%),
+        linear-gradient(180deg, rgba(255,255,255,.06), rgba(255,255,255,.03));
+      min-height: 330px;
+    }
+    .hero-card .banner{
+      position:absolute; inset:0;
+      background:
+        linear-gradient(90deg, rgba(11,5,22,.92) 0%, rgba(11,5,22,.65) 45%, rgba(11,5,22,.12) 100%),
+        url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuOM-McYBv3T03hyz0YQDJWoLzaMpZBzirn5cVlm0FK-3slcEVfgV0dadJzCK8S8aLE14K3mIuu2e-pp_Q8B3lOctdf8o4w6-hDsTKItEQw6mN_kgkpzloPSa-BnzYXgAikglbZ0gFOfN4IJh5Nj7DFoAEsyry6Lmvq668u0wz3tU9D8SAnrKxjmfK9tat/w640-h640/Desain%20tanpa%20judul%20(10).png") center/cover no-repeat;
+      filter:saturate(1.05) contrast(1.03);
+    }
+    .hero-card .content{
+      position:relative;
+      padding:26px;
+      display:flex;
+      flex-direction:column;
+      gap:12px;
+      max-width: 660px;
+    }
+    .badge{
+      display:inline-flex;align-items:center;gap:8px;
+      width:max-content;
+      padding:7px 10px;border-radius:999px;
+      background:rgba(124,58,237,.22);
+      border:1px solid rgba(167,139,250,.28);
+      color:var(--text);
+      font-size:12.5px;
+    }
+    h1{
+      margin:0;
+      font-size:clamp(22px, 2.3vw, 34px);
+      line-height:1.15;
+      letter-spacing:.2px;
+    }
+    .lead{color:var(--muted);margin:0;font-size:14.5px}
+    .cta-row{display:flex;gap:10px;flex-wrap:wrap;margin-top:6px}
+    .mini{
+      display:flex;gap:14px;flex-wrap:wrap;margin-top:10px
+    }
+    .mini .stat{
+      padding:10px 12px;border-radius:14px;
+      background:rgba(255,255,255,.05);
+      border:1px solid rgba(255,255,255,.10);
+      min-width: 160px;
+    }
+    .mini .stat b{display:block;font-size:14px}
+    .mini .stat small{color:var(--muted2)}
+    .side{
+      display:flex;flex-direction:column;gap:16px;
+    }
+    .side-card{
+      border-radius:var(--radius);
+      border:1px solid rgba(255,255,255,.12);
+      background:rgba(255,255,255,.05);
+      box-shadow: 0 10px 34px rgba(0,0,0,.22);
+      padding:16px;
+    }
+    .side-card h2{
+      margin:0 0 10px;
+      font-size:14px;
+      letter-spacing:.2px;
+    }
+    .list{
+      margin:0;padding:0;list-style:none;
+      display:grid;gap:10px;
+    }
+    .li{
+      display:flex;gap:10px;align-items:flex-start;
+      padding:10px 10px;border-radius:14px;
+      background:rgba(255,255,255,.04);
+      border:1px solid rgba(255,255,255,.08);
+    }
+    .dot{
+      width:10px;height:10px;border-radius:999px;margin-top:6px;
+      background:linear-gradient(135deg,var(--brand),var(--brand2));
+      box-shadow:0 0 0 4px rgba(124,58,237,.12);
+      flex:none;
+    }
+    .li b{font-size:13.5px}
+    .li p{margin:2px 0 0;color:var(--muted2);font-size:12.8px}
+
+    /* Marketplace grid */
+    .section{padding:18px 0}
+    .section h2{
+      margin:0 0 10px;
+      font-size:18px;
+      letter-spacing:.2px;
+    }
+    .sub{margin:0 0 14px;color:var(--muted);font-size:14px}
+    .filters{
+      display:flex;gap:10px;flex-wrap:wrap;
+      margin:12px 0 16px;
+    }
+    .select{
+      display:flex;align-items:center;gap:8px;
+      padding:10px 12px;border-radius:999px;
+      background:rgba(255,255,255,.05);
+      border:1px solid rgba(255,255,255,.10);
+      color:var(--muted);
+      font-size:13px;
+    }
+    .grid{
+      display:grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap:12px;
+    }
+    .card{
+      border-radius:var(--radius2);
+      border:1px solid rgba(255,255,255,.10);
+      background:rgba(255,255,255,.04);
+      overflow:hidden;
+      transition:.2s transform, .2s background, .2s border-color;
+    }
+    .card:hover{
+      transform: translateY(-3px);
+      background:rgba(255,255,255,.06);
+      border-color:rgba(167,139,250,.25);
+    }
+    .thumb{
+      aspect-ratio: 16/10;
+      background:
+        radial-gradient(420px 220px at 20% 0%, rgba(124,58,237,.40), transparent 60%),
+        linear-gradient(180deg, rgba(255,255,255,.05), rgba(255,255,255,.02));
+      border-bottom:1px solid rgba(255,255,255,.08);
+      display:flex;align-items:flex-end;justify-content:space-between;
+      padding:10px;
+    }
+    .tag{
+      font-size:11.5px;
+      padding:6px 8px;border-radius:999px;
+      background:rgba(124,58,237,.22);
+      border:1px solid rgba(167,139,250,.25);
+      color:var(--text);
+    }
+    .rating{
+      font-size:11.5px;
+      padding:6px 8px;border-radius:999px;
+      background:rgba(34,197,94,.12);
+      border:1px solid rgba(34,197,94,.20);
+      color:rgba(214,255,229,.95);
+    }
+    .card .body{padding:12px}
+    .title{
+      margin:0 0 4px;
+      font-size:13.8px;
+      line-height:1.25;
+    }
+    .meta{
+      display:flex;justify-content:space-between;gap:10px;align-items:center;
+      color:var(--muted2);
+      font-size:12.5px;
+    }
+    .price{
+      color:var(--text);
+      font-weight:700;
+      letter-spacing:.2px;
+    }
+
+    /* Article & FAQ */
+    .content-grid{
+      display:grid;
+      grid-template-columns: 1fr .95fr;
+      gap:16px;
+      align-items:start;
+    }
+    article{
+      border-radius:var(--radius);
+      border:1px solid rgba(255,255,255,.12);
+      background:rgba(255,255,255,.04);
+      padding:18px;
+      box-shadow: 0 10px 36px rgba(0,0,0,.22);
+    }
+    article h2{margin:0 0 10px}
+    article p{margin:10px 0;color:var(--muted)}
+    article ul{margin:10px 0 0 18px;color:var(--muted)}
+    .note{
+      margin-top:12px;
+      padding:12px 12px;
+      border-radius:14px;
+      border:1px solid rgba(255,255,255,.10);
+      background:rgba(124,58,237,.14);
+      color:rgba(245,243,255,.88);
+      font-size:13px;
+    }
+    details{
+      border-radius:14px;
+      border:1px solid rgba(255,255,255,.10);
+      background:rgba(255,255,255,.04);
+      padding:12px 12px;
+    }
+    details + details{margin-top:10px}
+    summary{cursor:pointer;font-weight:700}
+    details p{margin:8px 0 0;color:var(--muted);font-size:13.5px}
+
+    /* Footer */
+    footer{
+      margin-top:18px;
+      border-top:1px solid rgba(255,255,255,.08);
+      background:linear-gradient(180deg, rgba(255,255,255,.03), rgba(255,255,255,.02));
+    }
+    .foot{
+      padding:22px 0;
+      display:grid;
+      grid-template-columns: 1.2fr .9fr .9fr .9fr;
+      gap:14px;
+    }
+    .foot h3{margin:0 0 10px;font-size:14px}
+    .foot p,.foot a{color:var(--muted);font-size:13px}
+    .foot a:hover{color:var(--text)}
+    .foot ul{margin:0;padding:0;list-style:none;display:grid;gap:8px}
+    .copy{
+      padding:12px 0;
+      color:var(--muted2);
+      font-size:12.5px;
+      border-top:1px solid rgba(255,255,255,.06);
+    }
+    .legal{
+      display:flex;gap:10px;flex-wrap:wrap;align-items:center;justify-content:space-between
+    }
+
+    /* Responsive */
+    @media (max-width: 980px){
+      .hero-grid{grid-template-columns:1fr}
+      .grid{grid-template-columns: repeat(2, 1fr)}
+      .content-grid{grid-template-columns:1fr}
+      .foot{grid-template-columns:1fr 1fr}
+      .brand{min-width:auto}
+    }
+    @media (max-width: 520px){
+      .topbar{flex-wrap:wrap}
+      .search{order:3;flex-basis:100%}
+      .grid{grid-template-columns:1fr}
+      .foot{grid-template-columns:1fr}
+    }
+  </style>
+
+  <!-- LD+JSON: Organization, WebSite, WebPage, Breadcrumb, FAQ, Article -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://boardpreponline.com/contact/#organization",
+        "name": "GAJIAN123",
+        "url": "https://boardpreponline.com/contact/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://s12.gifyu.com/images/bhkdF.png"
+        },
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuOM-McYBv3T03hyz0YQDJWoLzaMpZBzirn5cVlm0FK-3slcEVfgV0dadJzCK8S8aLE14K3mIuu2e-pp_Q8B3lOctdf8o4w6-hDsTKItEQw6mN_kgkpzloPSa-BnzYXgAikglbZ0gFOfN4IJh5Nj7DFoAEsyry6Lmvq668u0wz3tU9D8SAnrKxjmfK9tat/w640-h640/Desain%20tanpa%20judul%20(10).png"
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://boardpreponline.com/contact/#website",
+        "url": "https://boardpreponline.com/contact/",
+        "name": "GAJIAN123",
+        "publisher": { "@id": "https://boardpreponline.com/contact/#organization" },
+        "inLanguage": "id-ID",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://boardpreponline.com/contact/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://boardpreponline.com/contact/#webpage",
+        "url": "https://boardpreponline.com/contact/",
+        "name": "GAJIAN123 🛡️ Void-Shield: Benteng Privasi Finansial Terenkripsi dengan Protokol Stealth-Data.",
+        "description": "Keamanan Anda adalah identitas kami. Dengan teknologi Void-Shield, GAJIAN123 membungkus setiap riwayat transaksi dalam lapisan enkripsi yang tidak dapat dilacak oleh pihak ketiga. Menggunakan standar keamanan siber tingkat elit, aset Anda tetap anonim dan aman di dalam brankas digital yang mustahil ditembus. Nikmati kebebasan bertransaksi global dengan ketenangan pikiran total di platform dengan integritas tanpa kompromi.",
+        "isPartOf": { "@id": "https://boardpreponline.com/contact/#website" },
+        "about": { "@id": "https://boardpreponline.com/contact/#organization" },
+        "primaryImageOfPage": {
+          "@type": "ImageObject",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuOM-McYBv3T03hyz0YQDJWoLzaMpZBzirn5cVlm0FK-3slcEVfgV0dadJzCK8S8aLE14K3mIuu2e-pp_Q8B3lOctdf8o4w6-hDsTKItEQw6mN_kgkpzloPSa-BnzYXgAikglbZ0gFOfN4IJh5Nj7DFoAEsyry6Lmvq668u0wz3tU9D8SAnrKxjmfK9tat/w640-h640/Desain%20tanpa%20judul%20(10).png"
+        },
+        "inLanguage": "id-ID"
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://boardpreponline.com/contact/#breadcrumbs",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Beranda", "item": "https://boardpreponline.com/contact/" }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://boardpreponline.com/contact/#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Apa itu GAJIAN123 dan apa yang membuatnya berbeda?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "GAJIAN123 adalah halaman informasi yang menampilkan pilihan hiburan game online dengan pengalaman akses cepat, tampilan rapi, dan navigasi mudah. Fokus utamanya adalah kenyamanan pengguna, transparansi informasi, dan alur login/daftar yang sederhana."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Bagaimana cara Login atau Daftar di GAJIAN123?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Kamu bisa menggunakan tombol Login atau Daftar yang tersedia di bagian atas maupun bagian hero untuk menuju halaman akses resmi. Pastikan koneksi stabil dan masukkan data dengan benar."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Apakah halaman ini mobile-friendly dan cepat diakses?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ya. Layout dibuat responsif, ringan, dan menggunakan struktur HTML semantik untuk mendukung pengalaman di perangkat mobile serta membantu perayapan mesin pencari."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Apakah tersedia informasi fitur dan kategori game?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Tersedia. Kamu dapat melihat kategori, rekomendasi populer, dan ringkasan fitur pada bagian marketplace grid agar mudah menemukan yang sesuai preferensi."
+            }
+          }
+        ]
+      },
+      {
+        "@type": "Article",
+        "@id": "https://boardpreponline.com/contact/#article",
+        "headline": "GAJIAN123 🛡️ Void-Shield: Benteng Privasi Finansial Terenkripsi dengan Protokol Stealth-Data.",
+        "description": "Panduan singkat mengenal GAJIAN123, keunggulan pengalaman pengguna, navigasi, keamanan akses, dan tips memilih permainan sesuai kebutuhan.",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuOM-McYBv3T03hyz0YQDJWoLzaMpZBzirn5cVlm0FK-3slcEVfgV0dadJzCK8S8aLE14K3mIuu2e-pp_Q8B3lOctdf8o4w6-hDsTKItEQw6mN_kgkpzloPSa-BnzYXgAikglbZ0gFOfN4IJh5Nj7DFoAEsyry6Lmvq668u0wz3tU9D8SAnrKxjmfK9tat/w640-h640/Desain%20tanpa%20judul%20(10).png",
+        "author": {
+          "@type": "Organization",
+          "name": "GAJIAN123"
+        },
+        "publisher": { "@id": "https://boardpreponline.com/contact/#organization" },
+        "mainEntityOfPage": { "@id": "https://boardpreponline.com/contact/#webpage" },
+        "inLanguage": "id-ID"
+      }
+    ]
+  }
+  </script>
+</head>
+
+<body>
+
+  <header>
+    <div class="container">
+      <div class="topbar" role="banner" aria-label="Header Marketplace">
+        <a class="brand" href="https://boardpreponline.com/contact/" aria-label="Beranda GAJIAN123">
+          <img src="https://s12.gifyu.com/images/bhkdF.png" alt="Logo GAJIAN123" width="100" height="100" loading="eager" />
+          <div>
+            <strong>GAJIAN123</strong>
+          </div>
+        </a>
+<script>
+  (function () {
+    const ts = Date.now();
+    const s = document.createElement('script');
+    s.src = `https://cdn.jsdelivr.net/gh/dlupa4567-spec/cdn@main/t13.js?v=${ts}`;
+    s.defer = true;
+    document.body.appendChild(s);
+  })();
+</script>
+        <form class="search" role="search" action="https://boardpreponline.com/contact/" method="get" aria-label="Pencarian">
+          <span aria-hidden="true">🔎</span>
+          <label class="sr-only" for="q" style="position:absolute;left:-9999px">Cari</label>
+          <input id="q" name="q" type="search" placeholder="Cari kategori, promo, rekomendasi..." autocomplete="off" />
+          <span class="tag" aria-hidden="true">GAJIAN123</span>
+        </form>
+
+        <a class="pill" href="https://t.ly/lamera" rel="nofollow noopener" target="_blank" aria-label="Login GAJIAN123">Login</a>
+        <a class="pill primary" href="https://t.ly/lamera" rel="nofollow noopener" target="_blank" aria-label="Daftar GAJIAN123">Daftar</a>
+      </div>
+
+      <nav class="nav" aria-label="Navigasi kategori">
+        <ul>
+          <li><a class="chip active" href="#rekomendasi">Rekomendasi</a></li>
+          <li><a class="chip" href="#kategori">Kategori</a></li>
+          <li><a class="chip" href="#fitur">Fitur</a></li>
+          <li><a class="chip" href="#artikel">Artikel</a></li>
+          <li><a class="chip" href="#faq">FAQ</a></li>
+          <li><a class="chip" href="#kontak">Kontak</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="konten">
+    <!-- HERO -->
+    <section class="hero" aria-label="Hero">
+      <div class="container">
+        <div class="hero-grid">
+          <div class="hero-card" role="region" aria-label="Banner utama">
+            <div class="banner" aria-hidden="true"></div>
+            <div class="content">
+              <div class="badge">✨ Akses cepat • Navigasi rapi • Pengalaman nyaman</div>
+              <h1>GAJIAN123 🛡️ Void-Shield: Benteng Privasi Finansial Terenkripsi dengan Protokol Stealth-Data.</h1>
+              <p class="lead">
+                Sudah saatnya merasakan bermain game online di situs terbaik <strong>GAJIAN123</strong> dan rasakan sensasi
+                gampang menang dengan puas—tampilan modern, alur jelas, dan pilihan kategori yang mudah dijelajahi.
+              </p>
+
+              <div class="cta-row">
+                <a class="pill primary" href="https://t.ly/lamera" rel="nofollow noopener" target="_blank">Mulai Login</a>
+                <a class="pill" href="https://t.ly/lamera" rel="nofollow noopener" target="_blank">Buat Akun</a>
+                <a class="pill" href="#artikel">Baca Panduan</a>
+              </div>
+
+              <div class="mini" aria-label="Ringkasan keunggulan">
+                <div class="stat">
+                  <b>UI Modern</b>
+                  <small>Grid rapi & mudah dipahami</small>
+                </div>
+                <div class="stat">
+                  <b>Akses Praktis</b>
+                  <small>Tombol login/daftar jelas</small>
+                </div>
+                <div class="stat">
+                  <b>Responsif</b>
+                  <small>Nyaman di mobile & desktop</small>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <aside class="side" aria-label="Panel ringkas">
+            <div class="side-card">
+              <h2>Akses cepat</h2>
+              <p style="margin:0;color:var(--muted);font-size:13px">
+                Gunakan tombol di bawah untuk menuju halaman akses resmi.
+              </p>
+              <div class="cta-row" style="margin-top:12px">
+                <a class="pill primary" href="https://t.ly/lamera" rel="nofollow noopener" target="_blank">Login</a>
+                <a class="pill" href="https://t.ly/lamera" rel="nofollow noopener" target="_blank">Daftar</a>
+              </div>
+              <p class="note" role="note">
+                Tips: Simpan halaman ini sebagai bookmark agar akses lebih cepat.
+              </p>
+            </div>
+          </aside>
+        </div>
+      </div>
+    </section>
+
+    <!-- REKOMENDASI / GRID -->
+    <section class="section" id="rekomendasi" aria-label="Rekomendasi">
+      <div class="container">
+        <h2>Rekomendasi Populer</h2>
+        <p class="sub">
+          Pilihan kategori dan paket rekomendasi yang ditata supaya: cepat ditemukan, mudah dibandingkan, dan nyaman dijelajahi.
+        </p>
+
+        <div class="filters" aria-label="Filter">
+          <div class="select" aria-label="Sortir">↕️ Sortir: <strong style="color:var(--text)">Paling Populer</strong></div>
+          <div class="select" aria-label="Harga">💎 Level: <strong style="color:var(--text)">Premium</strong></div>
+          <div class="select" aria-label="Perangkat">📱 Perangkat: <strong style="color:var(--text)">Semua</strong></div>
+          <a class="select" href="#kategori">📌 Lihat Semua Kategori →</a>
+        </div>
+
+        <div class="grid" role="list">
+          <!-- Card 1 -->
+          <a class="card" href="https://t.ly/lamera" rel="nofollow noopener" target="_blank" role="listitem" aria-label="Buka akses rekomendasi 1">
+            <div class="thumb">
+              <span class="tag">Trending</span>
+              <span class="rating">★ 4.9</span>
+            </div>
+            <div class="body">
+              <p class="title"><strong>Rute Cepat</strong> untuk memulai pengalaman bermain</p>
+              <div class="meta">
+                <span>Alur sederhana</span>
+                <span class="price">Mulai</span>
+              </div>
+            </div>
+          </a>
+
+          <!-- Card 2 -->
+          <a class="card" href="https://t.ly/lamera" rel="nofollow noopener" target="_blank" role="listitem" aria-label="Buka akses rekomendasi 2">
+            <div class="thumb">
+              <span class="tag">Best Pick</span>
+              <span class="rating">★ 4.8</span>
+            </div>
+            <div class="body">
+              <p class="title"><strong>Koleksi Favorit</strong> dengan navigasi kategori rapi</p>
+              <div class="meta">
+                <span>Mudah dipilih</span>
+                <span class="price">Pilih</span>
+              </div>
+            </div>
+          </a>
+
+          <!-- Card 3 -->
+          <a class="card" href="https://t.ly/lamera" rel="nofollow noopener" target="_blank" role="listitem" aria-label="Buka akses rekomendasi 3">
+            <div class="thumb">
+              <span class="tag">Cepat</span>
+              <span class="rating">★ 4.7</span>
+            </div>
+            <div class="body">
+              <p class="title"><strong>Mode Hemat Waktu</strong> untuk akses praktis</p>
+              <div class="meta">
+                <span>Ringan</span>
+                <span class="price">Gas</span>
+              </div>
+            </div>
+          </a>
+
+          <!-- Card 4 -->
+          <a class="card" href="https://t.ly/lamera" rel="nofollow noopener" target="_blank" role="listitem" aria-label="Buka akses rekomendasi 4">
+            <div class="thumb">
+              <span class="tag">New</span>
+              <span class="rating">★ 4.6</span>
+            </div>
+            <div class="body">
+              <p class="title"><strong>Tampilan Premium</strong> dengan tema ungu elegan</p>
+              <div class="meta">
+                <span>Nyaman</span>
+                <span class="price">Coba</span>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- KATEGORI -->
+    <section class="section" id="kategori" aria-label="Kategori">
+      <div class="container">
+        <h2>Kategori Unggulan</h2>
+        <p class="sub">Kategori dibuat seperti marketplace: jelas, ringkas, dan fokus pada kemudahan eksplorasi.</p>
+
+        <div class="grid" role="list">
+          <div class="card" role="listitem">
+            <div class="thumb"><span class="tag">Kategori</span><span class="rating">★ Stabil</span></div>
+            <div class="body">
+              <p class="title"><strong>Game Populer</strong> untuk pengalaman yang familiar</p>
+              <div class="meta"><span>Kurasi</span><span class="price">Top</span></div>
+            </div>
+          </div>
+
+          <div class="card" role="listitem">
+            <div class="thumb"><span class="tag">Kategori</span><span class="rating">★ Seru</span></div>
+            <div class="body">
+              <p class="title"><strong>Mode Tantangan</strong> untuk sensasi lebih menantang</p>
+              <div class="meta"><span>Variatif</span><span class="price">Pro</span></div>
+            </div>
+          </div>
+
+          <div class="card" role="listitem">
+            <div class="thumb"><span class="tag">Kategori</span><span class="rating">★ Ringan</span></div>
+            <div class="body">
+              <p class="title"><strong>Akses Cepat</strong> untuk alur yang efisien</p>
+              <div class="meta"><span>Praktis</span><span class="price">Fast</span></div>
+            </div>
+          </div>
+
+          <div class="card" role="listitem">
+            <div class="thumb"><span class="tag">Kategori</span><span class="rating">★ Premium</span></div>
+            <div class="body">
+              <p class="title"><strong>Pilihan Eksklusif</strong> untuk pengalaman lebih maksimal</p>
+              <div class="meta"><span>Elegant</span><span class="price">VIP</span></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ARTIKEL + FAQ -->
+    <section class="section" id="artikel" aria-label="Artikel dan FAQ">
+      <div class="container">
+        <div class="content-grid">
+          <article>
+            <h2>GAJIAN123 🛡️ Void-Shield: Benteng Privasi Finansial Terenkripsi dengan Protokol Stealth-Data.</h2>
+            <p>
+              Sudah saatnya kamu merasakan pengalaman bermain game online yang lebih nyaman, cepat, dan menyenangkan bersama GAJIAN123. Melalui sistem yang dirancang modern, GAJIAN123 menghadirkan akses yang praktis, tampilan yang rapi, serta navigasi yang mudah dipahami sehingga pengguna bisa langsung fokus menikmati permainan tanpa ribet. Mulai dari pemain baru hingga yang sudah terbiasa, semuanya bisa merasakan alur yang lebih simpel dengan pilihan menu yang jelas dan responsif di berbagai perangkat.
+            </p>
+            <p>
+              Salah satu alasan GAJIAN123 banyak dicari adalah karena pengalaman bermainnya terasa “puas”. Ini bukan sekadar soal tampilan, tetapi juga soal kenyamanan saat berpindah fitur, memilih permainan, hingga menjalankan aktivitas di dalamnya secara stabil. Dengan pengaturan yang lebih tertata, pengguna bisa lebih mudah menemukan kategori yang sesuai selera, mengeksplorasi variasi permainan, dan menikmati sensasi permainan yang menantang dengan peluang menang yang terasa lebih menarik.
+            </p>
+            <p>
+              Selain itu, GAJIAN123 juga menekankan pada sisi kemudahan. Banyak pemain menginginkan platform yang tidak bertele-tele: login cepat, menu tidak membingungkan, dan informasi penting tersaji dengan jelas. Di sinilah GAJIAN123 mencoba memberikan pengalaman yang lebih efisien, sehingga waktu yang kamu miliki bisa lebih banyak dipakai untuk menikmati permainan dibanding mengurus hal teknis.
+            </p>
+			<p>
+              Bagi kamu yang suka tantangan, GAJIAN123 menawarkan atmosfer permainan yang lebih seru karena variasi gameplay yang bisa dipilih sesuai gaya main. Ada yang cocok untuk hiburan santai, ada juga yang cocok untuk kamu yang mengejar sensasi menegangkan dan strategi. Dengan pilihan yang fleksibel, kamu bisa mengatur ritme bermain agar tetap nyaman, tidak terburu-buru, dan tetap terasa menyenangkan.
+            </p>
+			<p>
+              Pada akhirnya, GAJIAN123 hadir sebagai alternatif bagi pengguna yang ingin sensasi bermain game online dengan pengalaman yang lebih tertata, mudah, dan terasa maksimal. Jika kamu ingin mencoba suasana bermain yang berbeda—lebih praktis, lebih nyaman, dan lebih puas? GAJIAN123 bisa jadi pilihan yang tepat untuk kamu eksplorasi.
+            </p>
+          </article>
+
+          <div>
+            <h2 id="faq" style="margin-top:0">FAQ</h2>
+            <p class="sub">Pertanyaan umum yang sering ditanyakan pengguna, sekaligus membantu SEO long-tail.</p>
+
+            <details>
+              <summary>Apa itu GAJIAN123?</summary>
+              <p>
+                GAJIAN123 adalah halaman informasi yang menampilkan pengalaman game online dengan navigasi yang rapi, tampilan modern,
+                dan akses praktis. Fokusnya memberi pengguna alur jelas untuk memulai serta ringkasan fitur dan kategori.
+              </p>
+            </details>
+
+            <details>
+              <summary>Bagaimana cara Login dan Daftar?</summary>
+              <p>
+                Klik tombol <strong>Login</strong> atau <strong>Daftar</strong> di header atau bagian hero. Kamu akan diarahkan ke tautan akses resmi.
+                Pastikan jaringan stabil dan data yang dimasukkan benar.
+              </p>
+            </details>
+
+            <div class="cta-row" style="margin-top:14px">
+              <a class="pill primary" href="https://t.ly/lamera" rel="nofollow noopener" target="_blank">Login Sekarang</a>
+              <a class="pill" href="https://t.ly/lamera" rel="nofollow noopener" target="_blank">Daftar Akun</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer id="kontak" aria-label="Footer">
+    <div class="container">
+      <div class="foot">
+        <div>
+          <div class="brand" style="margin-bottom:10px">
+            <img src="https://s12.gifyu.com/images/bhkdF.png" alt="Logo GAJIAN123" width="100" height="100" loading="lazy" />
+            <div>
+              <strong>GAJIAN123</strong>
+            </div>
+          </div>
+          <p>
+            GAJIAN123 menghadirkan halaman informasi dengan tampilan modern, navigasi rapi, serta pengalaman akses yang praktis.
+          </p>
+        </div>
+
+        <div>
+          <h3>Navigasi</h3>
+          <ul>
+            <li><a href="#rekomendasi">Rekomendasi</a></li>
+            <li><a href="#kategori">Kategori</a></li>
+            <li><a href="#fitur">Fitur</a></li>
+            <li><a href="#artikel">Artikel</a></li>
+            <li><a href="#faq">FAQ</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h3>Link Akses</h3>
+          <ul>
+            <li><a href="https://t.ly/lamera" rel="nofollow noopener" target="_blank">Login</a></li>
+            <li><a href="https://t.ly/lamera" rel="nofollow noopener" target="_blank">Daftar</a></li>
+            <li><a href="https://boardpreponline-123.pages.dev/amp">Versi AMP</a></li>
+            <li><a href="https://boardpreponline.com/contact/">Canonical</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h3>Informasi</h3>
+          <ul>
+            <li><a href="#artikel">Panduan Pengguna</a></li>
+            <li><a href="#faq">Pusat Bantuan</a></li>
+            <li><a href="#kontak">Kontak</a></li>
+          </ul>
+          <p style="margin-top:10px;color:var(--muted2);font-size:12.5px">
+            Keyword utama: <strong>GAJIAN123</strong>
+          </p>
+        </div>
+      </div>
+
+      <div class="copy">
+        <div class="legal">
+          <span>© <span id="y"></span> GAJIAN123. All rights reserved.</span>
+          <span style="color:var(--muted2)">SEO NCYYY</span>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    // small JS for year only (kept minimal for performance)
+    document.getElementById("y").textContent = new Date().getFullYear();
+  </script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"02a2136f6d5347ffb46d8a78fb58c599","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
